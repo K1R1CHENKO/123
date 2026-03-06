@@ -1,0 +1,6 @@
+# deterministic smoke flow
+w
+d
+save
+load
+quit
